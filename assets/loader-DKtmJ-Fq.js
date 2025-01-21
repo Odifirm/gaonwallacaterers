@@ -1,0 +1,1 @@
+import{j as e}from"./index-5rJ9sLo8.js";const r=()=>e.jsx("div",{className:"absolute top-2/4 left-2/4 ",children:e.jsx("div",{className:"relative flex justify-center items-center",children:e.jsx("div",{className:"absolute animate-spin-slow rounded-full h-10 w-10 border-t-4 border-b-4 border-base"})})});export{r as default};
